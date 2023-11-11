@@ -1,0 +1,1726 @@
+CRITICAL - 2023-11-09 02:34:53 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:02 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:10 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:35 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:36 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:36 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:50 --> Invalid file: "/auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('/auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('/auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:35:50 --> Invalid file: "/auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('/auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(25): view('/auth/register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:36:04 --> Undefined variable $data
+in APPPATH\Controllers\AuthController.php on line 23.
+ 1 APPPATH\Controllers\AuthController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:36:05 --> Undefined variable $data
+in APPPATH\Controllers\AuthController.php on line 23.
+ 1 APPPATH\Controllers\AuthController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:36:11 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(23): view('auth/register')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 02:36:46 --> Invalid file: "auth/register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('auth/register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(23): view('auth/register')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 04:23:01 --> Invalid file: "layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(11): view('dashboard')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 04:23:02 --> Invalid file: "layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(11): view('dashboard')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 04:23:22 --> Invalid file: "main.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('main.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('main', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(11): view('dashboard')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 05:02:00 --> syntax error, unexpected token "return"
+in APPPATH\Controllers\DashboardController.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DashboardController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DashboardController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\DashboardController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 05:05:07 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 APPPATH\Controllers\DashboardController.php(13): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 05:05:52 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 APPPATH\Controllers\DashboardController.php(13): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 05:07:55 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 APPPATH\Controllers\DashboardController.php(13): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 05:09:05 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 APPPATH\Controllers\DashboardController.php(13): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 07:20:13 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 APPPATH\Controllers\DashboardController.php(13): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:39:09 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(52): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:41:56 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(52): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:42:50 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(52): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:50:40 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(53): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:50:55 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(53): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:55:15 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(59): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 12:55:28 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(59): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:00:37 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(104): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:00:48 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 5 APPPATH\Controllers\AuthController.php(52): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:01:10 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/registration')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 5 APPPATH\Controllers\AuthController.php(104): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/registration', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:01:21 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 5 APPPATH\Controllers\AuthController.php(52): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:23:32 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:24:52 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:24:55 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:24:56 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:29:11 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(15): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:29:12 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(15): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:29:27 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(15): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:30:21 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(15): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:31:01 --> 22 : The requested URL returned error: 401
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 401')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('get', 'https://take-home-test-api.nutech-integrasi.app/profile')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(180): CodeIgniter\HTTP\CURLRequest->request('get', 'https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 5 APPPATH\Controllers\DashboardController.php(15): CodeIgniter\HTTP\CURLRequest->get('https://take-home-test-api.nutech-integrasi.app/profile', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:45:04 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 5 APPPATH\Controllers\AuthController.php(41): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:45:08 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 5 APPPATH\Controllers\AuthController.php(41): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:45:17 --> 22 : The requested URL returned error: 400
+in SYSTEMPATH\HTTP\CURLRequest.php on line 693.
+ 1 SYSTEMPATH\HTTP\CURLRequest.php(693): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 400')
+ 2 SYSTEMPATH\HTTP\CURLRequest.php(387): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH\HTTP\CURLRequest.php(145): CodeIgniter\HTTP\CURLRequest->send('post', 'https://take-home-test-api.nutech-integrasi.app/login')
+ 4 SYSTEMPATH\HTTP\CURLRequest.php(220): CodeIgniter\HTTP\CURLRequest->request('post', 'https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 5 APPPATH\Controllers\AuthController.php(41): CodeIgniter\HTTP\CURLRequest->post('https://take-home-test-api.nutech-integrasi.app/login', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:47:29 --> Undefined global variable $_SESSION
+in APPPATH\Controllers\DashboardController.php on line 12.
+ 1 APPPATH\Controllers\DashboardController.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 13:47:53 --> Undefined variable $token
+in APPPATH\Controllers\DashboardController.php on line 15.
+ 1 APPPATH\Controllers\DashboardController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $token', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:05:07 --> Undefined variable $first_name
+in APPPATH\Views\layout\main.php on line 41.
+ 1 APPPATH\Views\layout\main.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $first_name', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/topup', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(87): view('feature/topup')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->isitopup()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:15:41 --> Undefined variable $servicesData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servicesData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(92): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:18:49 --> Invalid file: "login_response.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_response.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('login_response', [], true)
+ 3 APPPATH\Controllers\AuthController.php(59): view('login_response', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:19:29 --> Undefined variable $servicesData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servicesData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:20:58 --> Undefined variable $servicesData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servicesData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:21:01 --> Undefined variable $servicesData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servicesData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:21:19 --> Undefined variable $servicesData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servicesData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:24:23 --> Undefined variable $first_name
+in APPPATH\Views\layout\main.php on line 41.
+ 1 APPPATH\Views\layout\main.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $first_name', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 6 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:24:36 --> Undefined variable $first_name
+in APPPATH\Views\layout\main.php on line 41.
+ 1 APPPATH\Views\layout\main.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $first_name', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(23): view('dashboard', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:25:23 --> Trying to access array offset on value of type null
+in APPPATH\Views\layout\main.php on line 41.
+ 1 APPPATH\Views\layout\main.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(23): view('dashboard', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:26:26 --> Undefined array key "first_name"
+in APPPATH\Views\layout\main.php on line 41.
+ 1 APPPATH\Views\layout\main.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "first_name"', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(23): view('dashboard', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:26:37 --> Trying to access array offset on value of type null
+in APPPATH\Views\layout\main.php on line 41.
+ 1 APPPATH\Views\layout\main.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(23): view('dashboard', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:34:28 --> Undefined variable $balanceData
+in APPPATH\Views\layout\main.php on line 57.
+ 1 APPPATH\Views\layout\main.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $balanceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/topup', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(58): view('feature/topup')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->isitopup()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:34:48 --> Undefined variable $balanceData
+in APPPATH\Views\layout\main.php on line 57.
+ 1 APPPATH\Views\layout\main.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $balanceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/topup', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(58): view('feature/topup')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->isitopup()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:36:00 --> Undefined variable $balanceData
+in APPPATH\Views\layout\main.php on line 57.
+ 1 APPPATH\Views\layout\main.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $balanceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(67): view('feature/transaksi')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:45:17 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 23.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(21): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:45:18 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 23.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(21): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:46:22 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 23.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(21): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:46:24 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 23.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(21): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:55:59 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\dashboard.php on line 44.
+ 1 APPPATH\Views\dashboard.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 44)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:56:20 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 44.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:56:35 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 44.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:57:03 --> Cannot access offset of type string on string
+in APPPATH\Views\dashboard.php on line 44.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 4 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:58:52 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:58:55 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 14:59:47 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:02:55 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:02:56 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:03:12 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:03:29 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:03:31 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:04:11 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 42.
+ 1 APPPATH\Views\layout\main.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:04:30 --> Cannot access offset of type string on string
+in APPPATH\Views\layout\main.php on line 42.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:04:35 --> Cannot access offset of type string on string
+in APPPATH\Views\layout\main.php on line 42.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:05:24 --> Cannot access offset of type string on string
+in APPPATH\Views\layout\main.php on line 59.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:05:27 --> Cannot access offset of type string on string
+in APPPATH\Views\layout\main.php on line 59.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardController.php(24): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:06:25 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 44.
+ 1 APPPATH\Views\layout\main.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 44)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/transaksi', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(89): view('feature/transaksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->transaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:06:33 --> Undefined variable $profileData
+in APPPATH\Views\layout\main.php on line 44.
+ 1 APPPATH\Views\layout\main.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profileData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 44)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('feature/topup', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(80): view('feature/topup', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->isitopup()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:14:48 --> Undefined variable $serviceData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $serviceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:16:47 --> Undefined variable $serviceData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $serviceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(98): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:18:35 --> Undefined variable $serviceData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $serviceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:19:59 --> Undefined variable $serviceData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $serviceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:20:09 --> Undefined variable $serviceData
+in APPPATH\Views\dashboard.php on line 23.
+ 1 APPPATH\Views\dashboard.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $serviceData', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\AuthController.php(59): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 15:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 15:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:38:10 --> Call to a member function fails() on bool
+in APPPATH\Controllers\AuthController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 15:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:40:56 --> Call to a member function fails() on bool
+in APPPATH\Controllers\AuthController.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 15:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:42:31 --> Call to undefined method CodeIgniter\HTTP\Request::getPost()
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:45:37 --> Class "Curl\Curl" not found
+in APPPATH\Controllers\AuthController.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:45:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:46:00 --> Class "Curl\Curl" not found
+in APPPATH\Controllers\AuthController.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:47:03 --> Class "Curl\Curl" not found
+in APPPATH\Controllers\AuthController.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 15:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:47:17 --> Class "Curl\Curl" not found
+in APPPATH\Controllers\AuthController.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:52:27 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:54:03 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:54:55 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 15:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 15:55:12 --> Undefined property: stdClass::$user_id
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$user_id', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 15:59:15 --> Call to undefined method CodeIgniter\HTTP\Request::getPost()
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:02:34 --> Call to undefined method CodeIgniter\HTTP\Request::getPost()
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:02:36 --> Call to undefined method CodeIgniter\HTTP\Request::getPost()
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:03:19 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:04:30 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\DashboardController.php on line 14.
+ 1 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:06:56 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\DashboardController.php on line 14.
+ 1 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:06:57 --> Undefined property: App\Controllers\DashboardController::$session
+in APPPATH\Controllers\DashboardController.php on line 14.
+ 1 APPPATH\Controllers\DashboardController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DashboardController::$session', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:10:13 --> Call to undefined method CodeIgniter\HTTP\Request::getPost()
+in APPPATH\Controllers\AuthController.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:11:49 --> Undefined property: App\Controllers\AuthController::$session
+in APPPATH\Controllers\AuthController.php on line 80.
+ 1 APPPATH\Controllers\AuthController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\AuthController::$session', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:14:29 --> Invalid file: "registration.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('registration', [], true)
+ 3 APPPATH\Controllers\AuthController.php(85): view('registration', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:14:59 --> Invalid file: "register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(85): view('register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:15:10 --> Invalid file: "register.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('register', [], true)
+ 3 APPPATH\Controllers\AuthController.php(85): view('register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:16:13 --> Undefined property: App\Controllers\AuthController::$session
+in APPPATH\Controllers\AuthController.php on line 80.
+ 1 APPPATH\Controllers\AuthController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\AuthController::$session', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:18:07 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\AuthController.php(58): view('login', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:23:17 --> Class "CodeIgniter\Libraries\Curl" not found
+in APPPATH\Controllers\DashboardController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:24:15 --> Call to undefined method Curl\Curl::getBody()
+in APPPATH\Controllers\DashboardController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:25:20 --> Attempt to read property "first_name" on null
+in APPPATH\Controllers\DashboardController.php on line 31.
+ 1 APPPATH\Controllers\DashboardController.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "first_name" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 16:25:38 --> Attempt to read property "first_name" on null
+in APPPATH\Controllers\DashboardController.php on line 31.
+ 1 APPPATH\Controllers\DashboardController.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "first_name" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:33:50 --> Call to undefined method CodeIgniter\HTTP\Request::getPost()
+in APPPATH\Controllers\AuthController.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:35:09 --> Class "CodeIgniter\Libraries\Curl" not found
+in APPPATH\Controllers\DashboardController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:35:35 --> Call to undefined method Curl\Curl::getBody()
+in APPPATH\Controllers\DashboardController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:36:17 --> Call to undefined method Curl\Curl::getStatus()
+in APPPATH\Controllers\DashboardController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:36:18 --> Call to undefined method Curl\Curl::getStatus()
+in APPPATH\Controllers\DashboardController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:36:31 --> Call to undefined method Curl\Curl::getStatus()
+in APPPATH\Controllers\DashboardController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:36:38 --> Call to undefined method Curl\Curl::getStatus()
+in APPPATH\Controllers\DashboardController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:37:21 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(26): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:39:09 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(26): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:42:16 --> Undefined variable $data
+in APPPATH\Controllers\DashboardController.php on line 17.
+ 1 APPPATH\Controllers\DashboardController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:49:09 --> Undefined variable $firstName
+in APPPATH\Views\layout\main.php on line 43.
+ 1 APPPATH\Views\layout\main.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $firstName', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Views\\layout\\main.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/main', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard', [], true)
+ 6 APPPATH\Controllers\DashboardController.php(17): view('dashboard', [])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 16:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:58:28 --> Class "CodeIgniter\Libraries\Curl\Curl" not found
+in APPPATH\Controllers\DashboardController.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 16:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 16:58:59 --> Call to undefined method Curl\Curl::getBody()
+in APPPATH\Controllers\DashboardController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:08:13 --> Call to undefined method Curl\Curl::getBody()
+in APPPATH\Controllers\DashboardController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:09:35 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(29): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:09:36 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(29): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:09:44 --> Call to undefined method Curl\Curl::getBody()
+in APPPATH\Controllers\DashboardController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:29:32 --> Call to undefined method Curl\Curl::getBody()
+in APPPATH\Controllers\DashboardController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:30:23 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(29): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:30:24 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(29): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:38:43 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(31): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:40:38 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(31): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:41:17 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(31): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:41:22 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(31): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:41:25 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(31): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:41:35 --> Attempt to read property "http_status_code" on string
+in APPPATH\Controllers\DashboardController.php on line 34.
+ 1 APPPATH\Controllers\DashboardController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "http_status_code" on string', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\DashboardController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:52:40 --> Invalid file: "error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(27): view('error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 17:54:40 --> Invalid file: "views/error.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('views/error.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('views/error', [], true)
+ 3 APPPATH\Controllers\DashboardController.php(27): view('views/error', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\DashboardController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 17:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 17:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:04:36 --> Call to undefined method App\Controllers\AuthController::respond()
+in APPPATH\Controllers\AuthController.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:10:11 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 32.
+ 1 APPPATH\Controllers\AuthController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 18:10:29 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 32.
+ 1 APPPATH\Controllers\AuthController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 18:10:44 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 32.
+ 1 APPPATH\Controllers\AuthController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:11:11 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 32.
+ 1 APPPATH\Controllers\AuthController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 18:18:15 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 34.
+ 1 APPPATH\Controllers\AuthController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:18:29 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 34.
+ 1 APPPATH\Controllers\AuthController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 18:18:38 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 34.
+ 1 APPPATH\Controllers\AuthController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:18:57 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 34.
+ 1 APPPATH\Controllers\AuthController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:19:39 --> Call to undefined method App\Controllers\AuthController::respond()
+in APPPATH\Controllers\AuthController.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:21:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:24:44 --> json_decode(): Argument #1 ($json) must be of type string, Curl\Curl given
+in APPPATH\Controllers\AuthController.php on line 103.
+ 1 APPPATH\Controllers\AuthController.php(103): json_decode(Object(Curl\Curl))
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:28:34 --> Call to undefined method App\Controllers\AuthController::failValidationErrors()
+in APPPATH\Controllers\AuthController.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-09 18:35:26 --> Attempt to read property "email" on null
+in APPPATH\Controllers\AuthController.php on line 34.
+ 1 APPPATH\Controllers\AuthController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on null', 'C:\\xampp 8.2.4\\htdocs\\project\\project-root\\app\\Controllers\\AuthController.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+CRITICAL - 2023-11-09 18:36:17 --> Call to undefined method App\Controllers\AuthController::respond()
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp 8.2.4\\htdocs\\project\\project-root\\public\\index.php')
+INFO - 2023-11-09 18:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-09 18:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,28 @@
+ERROR - 2023-11-08 17:02:29 --> mysqli_sql_exception: Unknown table 'ci4.users' in C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('DROP TABLE `use...', 0)
+#1 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('DROP TABLE `use...')
+#2 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('DROP TABLE `use...')
+#3 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\Forge.php(637): CodeIgniter\Database\BaseConnection->query('DROP TABLE `use...')
+#4 C:\xampp 8.2.4\htdocs\project\project-root\app\Database\Migrations\2023-11-08-165209_Registration.php(43): CodeIgniter\Database\Forge->dropTable('users')
+#5 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(873): App\Database\Migrations\Registration->down()
+#6 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(295): CodeIgniter\Database\MigrationRunner->migrate('down', Object(stdClass))
+#7 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Commands\Database\MigrateRollback.php(86): CodeIgniter\Database\MigrationRunner->regress(0)
+#8 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\MigrateRollback->run(Array)
+#9 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate:rollbac...', Array)
+#10 C:\xampp 8.2.4\htdocs\project\project-root\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-11-08 17:03:12 --> mysqli_sql_exception: Unknown table 'ci4.users' in C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('DROP TABLE `use...', 0)
+#1 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('DROP TABLE `use...')
+#2 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('DROP TABLE `use...')
+#3 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\Forge.php(637): CodeIgniter\Database\BaseConnection->query('DROP TABLE `use...')
+#4 C:\xampp 8.2.4\htdocs\project\project-root\app\Database\Migrations\2023-11-08-165209_Registration.php(33): CodeIgniter\Database\Forge->dropTable('users')
+#5 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(873): App\Database\Migrations\Registration->down()
+#6 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(295): CodeIgniter\Database\MigrationRunner->migrate('down', Object(stdClass))
+#7 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\Commands\Database\MigrateRollback.php(86): CodeIgniter\Database\MigrationRunner->regress(0)
+#8 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\MigrateRollback->run(Array)
+#9 C:\xampp 8.2.4\htdocs\project\project-root\vendor\codeigniter4\framework\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate:rollbac...', Array)
+#10 C:\xampp 8.2.4\htdocs\project\project-root\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}

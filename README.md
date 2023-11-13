@@ -2,7 +2,7 @@
 ![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Login.png?raw=true)
 
 ## Registrasi
-https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Registrasi.png
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Registrasi.png?raw=true)
 
 ## Dashboard
 ![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/dashboard.png?raw=true)

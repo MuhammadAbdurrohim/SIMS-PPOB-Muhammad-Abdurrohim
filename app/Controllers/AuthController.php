@@ -16,12 +16,12 @@ class AuthController extends BaseController
 {
     use ResponseTrait;
 
-    public $jwtConfig;
+    public $jwtConfig; 
 
     public function __construct()
     {
         // Create an instance of JWTConfig
-        $this->jwtConfig = new JWTConfig();
+        $this->jwtConfig = new JWTConfig(); 
     }
 
     public function getJwtKey()

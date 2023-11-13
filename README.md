@@ -1,3 +1,21 @@
+## Login
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Login.png?raw=true)
+
+## Registrasi
+https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Registrasi.png
+
+## Dashboard
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/dashboard.png?raw=true)
+
+## Top Up
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Top%20Up.png?raw=true)
+
+## Transaksi
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/History%20transaksi.png?raw=true)
+
+## Akun
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/akun.png?raw=true)
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?

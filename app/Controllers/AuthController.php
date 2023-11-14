@@ -16,12 +16,12 @@ class AuthController extends BaseController
 {
     use ResponseTrait;
 
-    public $jwtConfig; 
+    public $jwtConfig;
 
     public function __construct()
     {
         // Create an instance of JWTConfig
-        $this->jwtConfig = new JWTConfig(); 
+        $this->jwtConfig = new JWTConfig();
     }
 
     public function getJwtKey()
@@ -72,7 +72,9 @@ class AuthController extends BaseController
             // Set flashdata for validation errors
             session()->setFlashdata('validation_errors', $validation->getErrors());
 
-            return redirect()->to('login')->withInput();
+            
+            $loginURL = base_url('login');
+            return redirect()->to($loginURL)->withInput();
         }
 
         $email    = $this->request->getPost('email');
@@ -112,7 +114,10 @@ class AuthController extends BaseController
             $this->jwtConfig->setJwtKey($jwtToken);
 
             // Redirect or perform any action after successful login
-            return redirect()->to('dashboard');
+            $fullURL = base_url('dashboard');
+            return redirect()->to($fullURL);
+
+            // return redirect()->to('dashboard');
         } else {
             // Handle other response codes or errors
             $errorMessage = isset($response['message']) ? $response['message'] : 'Unknown error';
@@ -120,8 +125,9 @@ class AuthController extends BaseController
 
             // Set flashdata for error message
             session()->setFlashdata('error_message', $errorMessage);
-
-            return redirect()->to('login')->withInput();
+            // Redirect to the login page with input data
+            $loginURL = base_url('login');
+            return redirect()->to($loginURL)->withInput();
         }
     }
 
@@ -155,7 +161,9 @@ class AuthController extends BaseController
             // Set flashdata for validation errors
             session()->setFlashdata('validation_errors', $validation->getErrors());
 
-            return redirect()->to('register')->withInput();
+            
+            $registerURL = base_url('register');
+            return redirect()->to($$registerURL)->withInput();
         }
 
         $email      = $this->request->getPost('email');
@@ -195,7 +203,10 @@ class AuthController extends BaseController
         // Check the HTTP status code
         if ($httpCode === 200) {
             // Redirect to login if registration is successful
-            return redirect()->to('login')->with('success_message', 'Registration successful. Please login.');
+            
+            // Redirect to the login page with input data
+            $loginURL = base_url('login');
+            return redirect()->to($loginURL)->with('success_message', 'Registration successful. Please login.');
         } else {
             // Show error message if registration fails
             $errorMessage = isset($response['message']) ? $response['message'] : 'Unknown error';
@@ -203,8 +214,10 @@ class AuthController extends BaseController
 
             // Set flashdata for error message
             session()->setFlashdata('error_message', $errorMessage);
-
-            return redirect()->to('register')->withInput();
+            
+            
+            $registerURL = base_url('register');
+            return redirect()->to($registerURL)->withInput();
         }
     }
 

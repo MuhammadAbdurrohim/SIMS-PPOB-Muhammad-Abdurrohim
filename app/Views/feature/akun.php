@@ -48,7 +48,7 @@
                     <!-- Provide a default image or handle the case where profile_image is empty -->
                     <img
                         id="profileImagePreview"
-                        src="img\Profile Photo.png"
+                        src="img/Profile Photo.png"
                         alt="Foto Profile"
                         class="w-16 h-16 mx-auto rounded-full mb-2"
                     />

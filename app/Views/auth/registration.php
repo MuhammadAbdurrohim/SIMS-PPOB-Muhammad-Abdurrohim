@@ -14,7 +14,7 @@
         <!-- Left Panel (Form) -->
         <div class="w-1/2 bg-white flex items-center justify-center">
             <div class="w-full max-w-sm p-8">
-                <img class="mx-auto h-10 w-auto" src="<?php echo base_url('img\Logo.png'); ?>" alt="Your Company">
+                <img class="mx-auto h-10 w-auto" src="<?php echo base_url('img/Logo.png'); ?>" alt="Your Company">
                 <h2 class="mt-6 text-center text-xl font-semibold text-gray-900">Masuk atau buat akun untuk memulai</h2>
                 
                 <!-- Display validation errors -->
@@ -95,7 +95,7 @@
         </div>
 
         <!-- Right Panel (Image) -->
-        <div class="w-1/2 bg-cover bg-center" style="background-image: url('<?php echo base_url('img\Illustrasi Login.png'); ?>');"></div>
+        <div class="w-1/2 bg-cover bg-center" style="background-image: url('<?php echo base_url('img/Illustrasi Login.png'); ?>');"></div>
     </div>
 </body>
 </html>

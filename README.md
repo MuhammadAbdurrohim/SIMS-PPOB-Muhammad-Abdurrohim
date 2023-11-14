@@ -11,7 +11,7 @@
 ![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/Top%20Up.png?raw=true)
 
 ## Transaksi
-![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/History%20transaksi.png?raw=true)
+![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/transaksi.png?raw=true)
 
 ## Akun
 ![alt text](https://github.com/MuhammadAbdurrohim/SIMS-PPOB-Muhammad-Abdurrohim/blob/main/public/img/akun.png?raw=true)
